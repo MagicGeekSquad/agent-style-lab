@@ -1,0 +1,49 @@
+{
+  "output": "skills/explainer-guide/sources/glynn-2008.md",
+  "input": "docs/refs/讲解者姿态/原始资料/07-glynn-teaching-with-analogies.pdf",
+  "title": "Making science concepts meaningful to students: teaching with analogies",
+  "author": "Shawn M. Glynn, 2008，章节编号 5.1，印刷页码 113-123",
+  "source_url": "https://osu-wams-blogs-uploads.s3.amazonaws.com/blogs.dir/548/files/2010/10/Glynn2008MakingScienceConceptsMeaningful.pdf",
+  "scope": "第 1 节“Introduction”，第 2 节中说明类比是双刃剑的一段，第 3 节“What is an analogy?”全文（包括水路和电路的对应图中的文字），第 5 节“What kind of analogy is best?”全文，第 6 节“Science teachers’ use of analogies”全文（包括库仑定律和万有引力定律的课堂例子），第 7 节“Teaching-With-Analogies Model”全文，以及第 9 节中前三条设计准则。第 4 节和第 8 节，第 9 节的后三条准则，以及结论和参考文献，都没有收录。图 1 和图 2 里的文字（水路和电路的对应部分）是从图中提取出来的，排版次序可能和原图不同。",
+  "cited_by": "`new-concepts.md` 的“用类比的时候，讲清楚对应关系和不像的地方”一节。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": ["^11[3-9]$", "^12[0-5]$"],
+  "sections": [
+    {
+      "start": "1 Introduction Science-education research",
+      "end": "web-based science instruction.",
+      "label": "第 1 节：引言"
+    },
+    {
+      "start": "Science teachers, like scientists, frequently use analogies",
+      "end": "In the following sections, these topics are addressed.",
+      "label": "第 2 节：类比是双刃剑"
+    },
+    {
+      "start": "3 What is an analogy?",
+      "end": "an analogy can be drawn between the flow of water and the flow of electricity.",
+      "label": "第 3 节：什么是类比"
+    },
+    {
+      "start": "5 What kind of analogy is best?",
+      "end": "increase students’ learning of target concepts and their interest in the concepts (Paris & Glynn, 2004).",
+      "label": "第 5 节：什么样的类比最好"
+    },
+    {
+      "start": "6 Science teachers’ use of analogies",
+      "end": "6. Draw conclusions about the laws.",
+      "label": "第 6 节和第 7 节的前半部分"
+    },
+    {
+      "start": "To help her students think about the analogy",
+      "end": "perhaps one of her students might someday do this.",
+      "label": "第 7 节的后半部分"
+    },
+    {
+      "start": "9 Guidelines for designing analogies",
+      "end": "to draw valid conclusions about the target.",
+      "label": "第 9 节：前三条设计准则"
+    }
+  ]
+}

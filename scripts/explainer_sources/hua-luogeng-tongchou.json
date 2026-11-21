@@ -1,0 +1,18 @@
+{
+  "output": "skills/explainer-guide/sources/hua-luogeng-tongchou.md",
+  "input": "docs/refs/讲解者姿态/中文原始资料/05-hua-luogeng-tongchou-cnblogs.html",
+  "title": "统筹方法",
+  "author": "华罗庚",
+  "source_url": "https://www.cnblogs.com/love-ice-will-win/p/16843129.html",
+  "scope": "文字取自 cnblogs 上的网页转录，没有和原文逐字核对。摘录从文章开头到“办法甲总共要16分钟”那一段，包括泡茶的例子、三种办法和“这是小事，但这是引子”一句。文中的图（箭头图和合并后的流程图）没有收录。网页转录在“办法甲”那条的“等水开”之后断成了两段，摘录照原样保留。网页在华罗庚文章之后附有一篇 Java 线程的代码示例，也没有收录。",
+  "cited_by": "`new-concepts.md` 的“从用户熟悉的东西讲起”一节，引用泡茶的例子和三种办法，16 分钟和 20 分钟的对比，以及“这是小事，但这是引子”一句。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "html_root": "//div[@id=\"cnblogs_post_body\"]",
+  "sections": [
+    {
+      "start": "### 实战：华罗庚《统筹方法》",
+      "end": "大可利用“等水开”的时间来做。",
+      "label": "从文章开头到“办法甲总共要16分钟”一段"
+    }
+  ]
+}

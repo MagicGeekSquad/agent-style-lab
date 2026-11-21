@@ -1,0 +1,46 @@
+{
+  "output": "skills/explainer-guide/sources/ant-design-copywriting.md",
+  "input": "docs/refs/讲解者姿态/中文原始资料/02-ant-design-copywriting-cn.html",
+  "title": "文案（Ant Design 设计规范）",
+  "author": "Ant Design 团队",
+  "source_url": "https://ant.design/docs/spec/copywriting-cn/",
+  "scope": "“文案”页面的全部正文，从开头的导语到最后的“基本标点规范”，去掉了网站的侧边栏和导航。页面里的示范图片大多只有图片，没有文字。指南引用了其中四张图，它们的文字单独列在最后，照图转录：两张在“使用用户熟悉的语言”一节，两张在“完整、直接地阐述信息”一节的报错部分。其他图片的内容没有收录。",
+  "cited_by": "`names.md` 引用“使用用户熟悉的语言”和“付款成功”一例；`tone.md` 引用“友好、尊重用户”和“不能”“不要”“请勿”的说法；`content.md` 引用“重要的信息放在显著位置”，“精简语句”里的“不重复用户已知事实”，以及“完整、直接地阐述信息”里告诉用户下一步怎么做的段落和“抱歉，发布失败”一例。",
+  "license": "页面上没有看到版权或许可证声明。版权情况没有确认。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "html_root": "//div[@id=\"S:4\"]",
+  "sections": [
+    {
+      "start": "在界面中，我们需要通过对话的方式与用户产生共鸣。",
+      "end": "具体使用请参考 1995 年中国标准出版社出版的《标点符号用法》，右图为重点列出的在设计中需要注意的部分。",
+      "label": "“文案”页面正文"
+    },
+    {
+      "input": "scripts/explainer_sources/ant-image-text.txt",
+      "html_root": null,
+      "start": "付款成功",
+      "end": "付款成功",
+      "label": "图片 02a 里的文字，摘录时照图转录。它是“使用用户熟悉的语言”一节的“正确示范”图"
+    },
+    {
+      "input": "scripts/explainer_sources/ant-image-text.txt",
+      "html_root": null,
+      "start": "资金流出成功",
+      "end": "资金流出成功",
+      "label": "图片 02b 里的文字，摘录时照图转录。它是“使用用户熟悉的语言”一节的“错误示范”图"
+    },
+    {
+      "input": "scripts/explainer_sources/ant-image-text.txt",
+      "html_root": null,
+      "start": "抱歉，无法完成发布，建议重新部署",
+      "end": "抱歉，无法完成发布，建议重新部署",
+      "label": "图片 02c 里的文字，摘录时照图转录。它是“完整、直接地阐述信息”一节中报错部分的“正确示范”图"
+    },
+    {
+      "input": "scripts/explainer_sources/ant-image-text.txt",
+      "html_root": null,
+      "start": "抱歉，发布失败",
+      "end": "抱歉，发布失败",
+      "label": "图片 02d 里的文字，摘录时照图转录。它是同一部分的“错误示范”图"
+    }
+  ]
+}

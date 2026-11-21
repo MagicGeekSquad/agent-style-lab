@@ -1,0 +1,39 @@
+{
+  "output": "skills/explainer-guide/sources/mayer-moreno-2003.md",
+  "input": "docs/refs/讲解者姿态/原始资料/09-mayer-moreno-nine-ways.pdf",
+  "title": "Nine Ways to Reduce Cognitive Load in Multimedia Learning",
+  "author": "Richard E. Mayer and Roxana Moreno, Educational Psychologist, 38(1), 43-52, 2003",
+  "source_url": "https://www.uky.edu/~gmswan3/544/9_ways_to_reduce_CL.pdf",
+  "scope": "摘要，开头说明“meaningful learning”和迁移测试的两段，“THE CASE OF COGNITIVE OVERLOAD”一节全文，第三类超载“Weeding and Signaling”一节全文（包括 weeding、signaling 两小节和脚注 5），以及结论中“Database”一段。其他几类超载、参考文献和致谢没有收录。表 2 和表 3 没有收录。",
+  "cited_by": "`content.md` 的“只写会改变用户理解或决定的事”一节（引用 weeding 和脚注 5）；`layout.md` 的“什么时候用标题”一节（引用 signaling，以及只做过一个实验、还需要更多研究的说明）。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": ["^MAYER AND MORENO$", "^WAYS TO REDUCE COGNITIVE LOAD$", "^(4[3-9]|5[0-2])$", "^Requests for reprints should be sent to", "^Psychology, University of California, Santa Barbara", "^E-mail: mayer@psych"],
+  "sections": [
+    {
+      "start": "First, we propose a theory of multimedia learning",
+      "end": "central consideration in the design of multimedia instruction.",
+      "label": "摘要"
+    },
+    {
+      "start": "WHAT IS MULTIMEDIA LEARNING AND INSTRUCTION?",
+      "end": "reduce the chances of cognitive overload in each of five overload scenarios.",
+      "label": "引言：定义和迁移测试"
+    },
+    {
+      "start": "THE CASE OF COGNITIVE OVERLOAD",
+      "end": "are summarized in Table 3.",
+      "label": "“THE CASE OF COGNITIVE OVERLOAD”一节"
+    },
+    {
+      "start": "Type 3 Overload: Weeding and Signaling",
+      "end": "Signaling seems to help in the process of selecting and organizing relevant information.",
+      "label": "第三类超载：weeding 和 signaling"
+    },
+    {
+      "start": "Database. Our search for theory-based",
+      "end": "test theory-based predictions in the context of student learning scenarios.",
+      "label": "结论中的“Database”一段"
+    }
+  ]
+}

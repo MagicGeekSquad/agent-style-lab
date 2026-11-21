@@ -1,0 +1,18 @@
+{
+  "output": "skills/explainer-guide/sources/google-tech-writing-audience.md",
+  "input": "docs/refs/讲解者姿态/原始资料/03-google-technical-writing-one-audience.html",
+  "title": "Technical Writing One: Audience",
+  "author": "Google for Developers 的 Technical Writing 课程（Technical Writing One 第 “Audience” 单元）。页面没有标注版本或日期。",
+  "source_url": "https://developers.google.com/tech-writing/one/audience",
+  "scope": "摘录了页面的完整正文，从“Estimated Time”到最后的练习答案。页面顶部由网站自动生成的内容摘要（Page Summary）以及导航栏、页脚都没有摘录，页面里嵌入的视频也没有提取。",
+  "cited_by": "new-concepts.md 的开头一节和出处部分引用了它：好文档等于读者需要的知识和技能减去读者已经有的，知识的诅咒，以及读者范围越宽越要多解释。",
+  "license": "页面注明：除非另有说明，本页内容采用 Creative Commons Attribution 4.0 License（CC BY 4.0），代码示例采用 Apache 2.0 License。",
+  "html_root": "//article[@class='devsite-article']",
+  "sections": [
+    {
+      "label": "页面正文",
+      "start": "Estimated Time: 10 minutes",
+      "end": "Substituting the transition However will fix this problem."
+    }
+  ]
+}

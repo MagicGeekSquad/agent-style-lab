@@ -1,0 +1,28 @@
+{
+  "output": "skills/explainer-guide/sources/gopen-swan-1990.md",
+  "input": "docs/refs/讲解者姿态/原始资料/01-gopen-swan-science-of-scientific-writing.pdf",
+  "title": "The Science of Scientific Writing",
+  "author": "George D. Gopen and Judith A. Swan, American Scientist, 1990",
+  "source_url": "https://www.usenix.org/sites/default/files/gopen_and_swan_science_of_scientific_writing.pdf",
+  "scope": "从开头到“Perceiving Logical Gaps”之前的全部正文，其中有读者的期待，主语和谓语之间的距离，句末的重音位置和句首的话题位置，以及“最常见的问题”一段；然后是“Locating the Action”一节全文，以及“Writing and the Scientific Process”一节中列出七条原则和说明这些原则不是规则的部分。“Perceiving Logical Gaps”一节、该节之后的收尾段落和参考文献没有收录。",
+  "cited_by": "`sentences.md` 的“每句话先接上前文，再引出新的内容”“把动作写进动词”和“不要把主语和谓语隔得太远”三节。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "sections": [
+    {
+      "start": "Science is often hard to read.",
+      "end": "put in the stress position the new information you want the reader to emphasize.”",
+      "label": "第一部分：开头到“A note of clarification”段"
+    },
+    {
+      "start": "Locating the Action Our final example",
+      "end": "can be detected by adding the egg extract to the oocyte extract and examining the effects on transcription.",
+      "label": "第二部分：“Locating the Action”一节"
+    },
+    {
+      "start": "Writing and the Scientific Process We began",
+      "end": "they can permanently reverse those habitual structural decisions that mislead or burden readers.",
+      "label": "第三部分：“Writing and the Scientific Process”一节"
+    }
+  ]
+}

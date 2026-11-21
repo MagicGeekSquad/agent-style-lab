@@ -1,0 +1,11 @@
+{
+  "output": "skills/explainer-guide/sources/ucsf-ask-tell-ask.md",
+  "input": "docs/refs/讲解者姿态/原始资料/08-ucsf-ask-tell-ask.html",
+  "title": "Communication Skills: Ask Tell Ask",
+  "author": "UCSF ePrognosis（加州大学旧金山分校）。页面没有标注作者或日期。",
+  "source_url": "https://eprognosis.ucsf.edu/communication/video-ask-tell-ask.php",
+  "scope": "摘录了页面的全部文字。页面上的示范视频没有包含在内。",
+  "cited_by": "new-concepts.md 引用了它：“问—讲—问”的三个步骤，以及用“spread”代替“metastasized”的例子。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "html_root": "//article[@id='pagecontent']"
+}

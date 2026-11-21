@@ -1,0 +1,17 @@
+{
+  "output": "skills/explainer-guide/sources/yikeke-zh-style-guide-word-choice.md",
+  "input": "docs/refs/讲解者姿态/中文原始资料/03-zh-style-guide-yongci-qiadang.html",
+  "title": "中文技术文档写作风格指南：用词恰当",
+  "author": "yikeke 等",
+  "source_url": "https://zh-style-guide.readthedocs.io/zh-cn/latest/%E8%AF%AD%E8%A8%80%E9%A3%8E%E6%A0%BC/%E7%94%A8%E8%AF%8D%E6%81%B0%E5%BD%93.html",
+  "scope": "“用词恰当”一页的全部正文，包括“禁用词”“常用词”和“易用错的词”三节，去掉了网站的导航和页脚。",
+  "cited_by": "`sentences.md` 引用“需要将其 image 字段留空”的改写，以及一句话里修饰语堆在句末“表”字前面、评语为“读起来很拗口，令人费解”的例子；`numbers-and-uncertainty.md` 引用“很好地提升了性能”的改写。",
+  "license": "页面页脚写着“© Copyright 2020-2025, yikeke.”，页面上没有看到其他许可证声明。版权情况没有确认。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "html_root": "//article",
+  "sections": [
+    {
+      "start": "# 用词恰当¶",
+      "end": "参考易用错的词。"
+    }
+  ]
+}

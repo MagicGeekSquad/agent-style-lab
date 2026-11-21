@@ -1,0 +1,44 @@
+{
+  "output": "skills/explainer-guide/sources/clark-brennan-1991.md",
+  "input": "docs/refs/讲解者姿态/原始资料/06-clark-brennan-grounding-in-communication.ocr.txt",
+  "title": "Grounding in Communication",
+  "author": "Herbert H. Clark and Susan E. Brennan, 1991, 收于 Perspectives on Socially Shared Cognition, American Psychological Association",
+  "source_url": "https://www.cs.cmu.edu/~illah/CLASSDOCS/Clark91.pdf",
+  "scope": "引言中说明“grounding”以及目的和媒介两个因素的段落，“Grounding in Conversation”中提出“grounding criterion”（对当前目的来说足够的理解）的一段，“Least Collaborative Effort”一节全文，“GROUNDING CHANGES WITH PURPOSE”的第一段，“GROUNDING CHANGES WITH THE MEDIUM”一节全文（包括八项媒介限制和表 1，十一种成本，以及“Cost Tradeoffs”），以及结论的前三段。其余部分没有收录。这份文字来自对扫描件的 OCR，可能有个别识别错误，例如把字母 o 认成数字 0，或者把 w 认成 iw；核对时以项目里的 PDF 原件为准。",
+  "cited_by": "`content.md` 的“简单的事，说得简单”一节（引用“对当前目的来说足够”的理解标准）和“为什么不按字数来求简短”一节（引用对最小努力原则的批评，以及对电子邮件和书信中修正代价的分析）。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": ["^-$"],
+  "sections": [
+    {
+      "start": "In communication, common ground cannot be properly updated",
+      "end": "what it costs to use them.",
+      "label": "引言：grounding 以及目的和媒介两个因素"
+    },
+    {
+      "start": "Of course, understanding can never be perfect.",
+      "end": "Schegloff, 1982).",
+      "label": "“Grounding in Conversation”中的 grounding criterion"
+    },
+    {
+      "start": "Least Collaborative Effort",
+      "end": "The principle of least collaborative effort is essential for a full account of face-to-face conversation.",
+      "label": "“Least Collaborative Effort”一节"
+    },
+    {
+      "start": "GROUNDING CHANGES WITH PURPOSE People in conversation",
+      "end": "We will illustrate with two types of content-references and verbatim content.",
+      "label": "“GROUNDING CHANGES WITH PURPOSE”的第一段"
+    },
+    {
+      "start": "GROUNDING CHANGES WITH THE MEDIUM By the principle",
+      "end": "They balance the perceived costs for formulation, production, reception, understanding, start-up, delay, timing, speaker change, display, faults, and repair.",
+      "label": "“GROUNDING CHANGES WITH THE MEDIUM”一节"
+    },
+    {
+      "start": "CONCLUSION",
+      "end": "Ordinarily, this means paying as few of these costs as possible.",
+      "label": "结论"
+    }
+  ]
+}

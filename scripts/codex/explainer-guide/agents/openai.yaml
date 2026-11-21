@@ -1,0 +1,7 @@
+interface:
+  display_name: "讲解者指南"
+  short_description: "把汇报、回答和请用户做的决定写得读一遍就能明白"
+  default_prompt: "按 $explainer-guide 的要求，把这件事讲给我听。"
+
+policy:
+  allow_implicit_invocation: true

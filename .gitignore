@@ -1,0 +1,19 @@
+# Local research material: raw experiment logs, exported conversations and
+# downloaded third-party originals. Not part of the public repository.
+work/
+docs/
+outputs/
+
+# Third-party excerpts whose reprint permission is not confirmed yet.
+skills/*/sources/
+scripts/explainer_sources/*.txt
+
+# This local excerpt recipe includes unpublished test prompts and replies.
+/scripts/explainer_sources/agent-test-answers.json
+
+# editor / OS / Python
+.DS_Store
+__pycache__/
+*.pyc
+.claude/
+.obsidian/

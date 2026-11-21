@@ -1,0 +1,48 @@
+{
+  "output": "skills/explainer-guide/sources/cdc-clear-communication-index.md",
+  "input": "docs/refs/讲解者姿态/原始资料/02-cdc-clear-communication-index-user-guide.pdf",
+  "title": "CDC Clear Communication Index: User Guide",
+  "author": "美国疾病控制与预防中心（CDC）传播事务副主任办公室，2019 年 8 月版（文件编号 CS309804-A）。",
+  "source_url": "https://www.cdc.gov/ccindex/pdf/clear-communication-user-guide.pdf",
+  "scope": "摘录了封面，指南开头的概述（印刷页码第 1 页和第 2 页，含“What Makes the Index Different…”一段关于可读性公式的说明），以及指南引用到的第 1 项至第 3 项，第 7 项，第 9 项至第 11 项，第 13 项至第 17 项，每项都带完整的说明和例子。其余各项和附录没有摘录。原件里的图片和版式示例没有提取，只留下了图里的文字，读起来可能有些错乱。",
+  "cited_by": "content.md 引用了第 1 项和第 2 项以及第 10 项，第 13 项和第 14 项，还有讲可读性公式的段落；layout.md 引用了第 3 项和第 9 项；names.md 和 tone.md 引用了第 7 项；numbers-and-uncertainty.md 引用了第 11 项和第 15 项至第 17 项。",
+  "license": "美国联邦政府的出版物。PDF 里没有版权或使用限制的声明；按美国版权法，联邦政府的作品在美国不受版权保护。在美国以外使用的情况没有确认。",
+  "reflow": true,
+  "drop_lines": [
+    "^CDC Clear Communication Index$",
+    "^Office of the Associate Director for Communication$",
+    "^\\d{1,2}$"
+  ],
+  "sections": [
+    {
+      "label": "封面",
+      "start": "CDC Clear Communication Index A Tool for Developing",
+      "end": "CS309804-A"
+    },
+    {
+      "label": "概述（印刷页码第 1 页和第 2 页）",
+      "start": "Clear Communication and Plain Language at CDC The Clear",
+      "end": "they’re the law."
+    },
+    {
+      "label": "第 1 项至第 3 项",
+      "start": "Description and Examples of Index Items This section contains",
+      "end": "Main message is emphasized with a box"
+    },
+    {
+      "label": "第 7 项",
+      "start": "7.\n\nDoes the material always use words the primary audience uses?",
+      "end": "writeNoAbbrev.cfm)"
+    },
+    {
+      "label": "第 9 项至第 11 项",
+      "start": "9.\n\nIs the material organized in chunks with headings?",
+      "end": "Ask your doctor if it is safe for you to take your medicine during pregnancy"
+    },
+    {
+      "label": "第 13 项至第 17 项",
+      "start": "13. Does the material explain why the behavioral recommendation(s) is important",
+      "end": "What else could you do with $4,380 this year?"
+    }
+  ]
+}

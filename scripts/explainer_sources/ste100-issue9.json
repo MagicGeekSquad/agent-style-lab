@@ -1,0 +1,65 @@
+{
+  "output": "skills/explainer-guide/sources/ste100-issue9.md",
+  "input": "work/ste-zh-pro-v0.2/verification/ASD-STE100-issue9.pdf",
+  "title": "ASD-STE100 Simplified Technical English, Issue 9",
+  "author": "ASD（欧洲航空航天和防务工业协会），第 9 版，2025 年 1 月 15 日。",
+  "source_url": "https://www.asd-ste100.org/",
+  "scope": "摘录了封面和版权声明，写作规则 1.11，第 2 节（规则 2.1 和 2.2）的全部内容，规则 4.2，规则 5.1，规则 6.3，以及第 9 节里的写作建议 GR-3（如何使用代词）。每条规则都带它的说明和例子。词典部分和其余的规则没有摘录。原件里的例子多是“Non-STE”和“STE”的对照表，提取成文字以后，对照的两栏会排成连续的几行，需要按顺序对着看。",
+  "cited_by": "sentences.md 引用了规则 4.2，规则 2.1，规则 1.11，写作建议 GR-3，以及规则 5.1 和规则 6.3 的句子词数上限；names.md 引用了规则 2.2。",
+  "license": "ASD-STE100 的版权归 ASD（欧洲航空航天和防务工业协会）。这里只摘录指南引用到的几条规则，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": [
+    "^ASD-STE100 Simplified Technical English\\s*$",
+    "^Issue 9\\s*$",
+    "^2025.01.15\\s*$",
+    "^Part 1 - Writing [Rr]ules$",
+    "^Page \\d+-\\d+-\\d+$"
+  ],
+  "sections": [
+    {
+      "label": "封面",
+      "start": "European Union Trade Mark No. 017966390",
+      "end": "© ASD, 2025 – All rights reserved"
+    },
+    {
+      "label": "版权声明和免责声明",
+      "start": "Copyright notices Copyright The information",
+      "end": "regardless of the context in which it is used."
+    },
+    {
+      "label": "规则 1.11",
+      "start": "Rule 1.11\n\nDo not use different technical nouns for the same item.\n\nWhen you select",
+      "end": "then always use this technical noun in your text."
+    },
+    {
+      "label": "第 2 节：规则 2.1 和规则 2.2",
+      "start": "Section 2 – Multi-word nouns Summary of the rules",
+      "end": "WRITE: The inward-outward valve is part of the fuel system."
+    },
+    {
+      "label": "规则 4.2",
+      "start": "Rule 4.2\n\nDo not omit words or use contractions to make your sentences shorter.\n\nEach sentence must have all its parts.",
+      "end": "If your hands are wet, do not touch the USB power adapter."
+    },
+    {
+      "label": "规则 5.1",
+      "start": "Sentences Rule 5.1\n\nWrite short sentences. Use a maximum of 20 words in each sentence.\n\nProcedures give",
+      "end": "the maximum length of a sentence in a note is 25 words."
+    },
+    {
+      "label": "规则 6.3",
+      "start": "Sentences Rule 6.3\n\nWrite short sentences. Use a maximum of 25 words in each sentence.\n\nGood technical writing",
+      "end": "and it can also operate software applications. (16 words)"
+    },
+    {
+      "label": "第 9 节：写作建议的说明",
+      "start": "General recommendations The general recommendations (GR) in this section are not STE rules.",
+      "end": "They can help you prevent typical errors that writers make."
+    },
+    {
+      "label": "第 9 节：写作建议 GR-3",
+      "start": "GR-3 How to use pronouns",
+      "end": "the pins and seats can become damaged."
+    }
+  ]
+}

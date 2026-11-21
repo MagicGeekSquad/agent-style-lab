@@ -1,0 +1,42 @@
+{
+  "output": "skills/explainer-guide/sources/lv-zhu-grammar-rhetoric-lecture5.md",
+  "title": "语法修辞讲话 第五讲“表达”（费解、烦冗、苟简三节）",
+  "author": "吕叔湘和朱德熙",
+  "source_url": "https://doosho.com/cn/525/5/2（费解）；https://doosho.com/cn/525/5/6（烦冗）；https://doosho.com/cn/525/5/7（苟简）",
+  "scope": "文字取自 doosho.com 的网页转录，没有和印刷的原书逐页核对。按“费解”“烦冗”“苟简”的顺序分三部分摘录。“费解”一节收录开头一段，以及例句（5）到（11）和作者对它们的评语，其中有例句（8）；“烦冗”一节只收录开头两段；“苟简”一节收录开头一段，以及例句（6）到（8）和评语，其中有例句（7）。三节的其余部分没有收录。",
+  "cited_by": "`numbers-and-uncertainty.md` 的“条件要写全”一节引用“费解”一节的例句（8）；`content.md` 的“只写会改变用户理解或决定的事”一节引用“烦冗”一节的开头；`sentences.md` 的“不要靠删词来求简短”一节引用“苟简”一节的开头和例句（7）。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "html_root": "//article",
+  "sections": [
+    {
+      "input": "docs/refs/讲解者姿态/中文原始资料/01a-lv-shuxiang-feijie.html",
+      "start": "无心晦涩话说得不明不白",
+      "end": "作者的真意多半可以猜得出来。",
+      "label": "第五讲“二 费解”一节，开头一段"
+    },
+    {
+      "input": "docs/refs/讲解者姿态/中文原始资料/01a-lv-shuxiang-feijie.html",
+      "start": "（5）在这种情况之下",
+      "end": "这句应改作“这些共同点使他们和蒙汉民族有明显的区别”。",
+      "label": "第五讲“二 费解”一节，例句（5）到（11）和评语"
+    },
+    {
+      "input": "docs/refs/讲解者姿态/中文原始资料/01c-lv-shuxiang-fanrong.html",
+      "start": "写文章要简洁，不但是为自己珍惜笔墨",
+      "end": "还有一种就是赘余。",
+      "label": "第五讲“六 烦冗”一节，开头两段"
+    },
+    {
+      "input": "docs/refs/讲解者姿态/中文原始资料/01b-lv-shuxiang-goujian.html",
+      "start": "跟烦冗相反的毛病是苟简。",
+      "end": "那也是不对的。",
+      "label": "第五讲“七 苟简”一节，开头一段"
+    },
+    {
+      "input": "docs/refs/讲解者姿态/中文原始资料/01b-lv-shuxiang-goujian.html",
+      "start": "以上各例，虽然欠缺一些词语",
+      "end": "大概是“综合的”。",
+      "label": "第五讲“七 苟简”一节，例句（6）到（8）和评语"
+    }
+  ]
+}

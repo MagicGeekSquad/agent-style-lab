@@ -1,0 +1,60 @@
+{
+  "output": "skills/explainer-guide/sources/ctca-style-guide.md",
+  "title": "CTCA 写作风格指南（八个页面）",
+  "author": "CTCA 写作风格指南（一份公开的中文技术文档写作规范）",
+  "source_url": "https://style.china-tca.com/",
+  "scope": "八个页面各取全部正文，去掉了页面的搜索框和导航文字。页面按章节号排列，各页网址是：1.1 概述 https://style.china-tca.com/1-zong-ze/1-1-gai-shu/ ；3.1 句式要求 https://style.china-tca.com/3-xie-zuo-gui-fan/3-1-ju-shi-yao-qiu/ ；4.1 标题层级 https://style.china-tca.com/4-ge-shi-gui-fan/4-1-biao-ti-ceng-ji/ ；4.2 列表 https://style.china-tca.com/4-ge-shi-gui-fan/4-2-lie-biao/ ；4.3 表格 https://style.china-tca.com/4-ge-shi-gui-fan/4-3-biao-ge/ ；7.1 可翻译性写作 https://style.china-tca.com/7-guo-ji-hua-yu-ben-di-hua/7-1-ke-fan-yi-xing/ ；8.2 信息架构 https://style.china-tca.com/8-wen-dang-jie-gou/8-2-xin-xi-jia-gou/ ；10.2 发布说明 https://style.china-tca.com/10-ban-ben-guan-li/10-2-fa-bu-shuo-ming/ 。指南的其他章节没有收录。",
+  "cited_by": "`content.md` 引用 1.1 的简洁性原则和 8.2 的 R-143；`sentences.md` 引用 3.1 的 R-031 和 4.2 的 R-070；`layout.md` 引用 4.1 的 R-060 和 R-061，4.2 的列表提示，以及 4.3 的 R-071，R-072 和 R-075；`tone.md` 引用 7.1 的 R-132；`numbers-and-uncertainty.md` 引用 10.2 的 R-164 和已知问题的写法；`names.md` 引用 10.2 的发布说明用语示例。",
+  "license": "页面上没有看到版权或许可证声明。版权情况没有确认。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "html_root": "//article",
+  "sections": [
+    {
+      "input": "docs/refs/ctca/2026-11-10/1-zong-ze_1-1-gai-shu.html",
+      "label": "1.1 概述，https://style.china-tca.com/1-zong-ze/1-1-gai-shu/",
+      "start": "# 1.1 概述",
+      "end": "故障排除指南等。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/3-xie-zuo-gui-fan_3-1-ju-shi-yao-qiu.html",
+      "label": "3.1 句式要求，https://style.china-tca.com/3-xie-zuo-gui-fan/3-1-ju-shi-yao-qiu/",
+      "start": "# 3.1 句式要求",
+      "end": "或使用列表来组织信息。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/4-ge-shi-gui-fan_4-1-biao-ti-ceng-ji.html",
+      "label": "4.1 标题层级，https://style.china-tca.com/4-ge-shi-gui-fan/4-1-biao-ti-ceng-ji/",
+      "start": "# 4.1 标题层级",
+      "end": "之间使用半角圆点分隔。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/4-ge-shi-gui-fan_4-2-lie-biao.html",
+      "label": "4.2 列表，https://style.china-tca.com/4-ge-shi-gui-fan/4-2-lie-biao/",
+      "start": "# 4.2 列表",
+      "end": "7±2 个信息单元。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/4-ge-shi-gui-fan_4-3-biao-ge.html",
+      "label": "4.3 表格，https://style.china-tca.com/4-ge-shi-gui-fan/4-3-biao-ge/",
+      "start": "# 4.3 表格",
+      "end": "在需要符合无障碍标准的文档中，应避免使用合并单元格。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/7-guo-ji-hua-yu-ben-di-hua_7-1-ke-fan-yi-xing.html",
+      "label": "7.1 可翻译性写作，https://style.china-tca.com/7-guo-ji-hua-yu-ben-di-hua/7-1-ke-fan-yi-xing/",
+      "start": "# 7.1 可翻译性写作",
+      "end": "可以在本地化阶段节省大量时间和成本。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/8-wen-dang-jie-gou_8-2-xin-xi-jia-gou.html",
+      "label": "8.2 信息架构，https://style.china-tca.com/8-wen-dang-jie-gou/8-2-xin-xi-jia-gou/",
+      "start": "# 8.2 信息架构原则",
+      "end": "从而优化文档结构。"
+    },
+    {
+      "input": "docs/refs/ctca/2026-11-10/10-ban-ben-guan-li_10-2-fa-bu-shuo-ming.html",
+      "label": "10.2 发布说明，https://style.china-tca.com/10-ban-ben-guan-li/10-2-fa-bu-shuo-ming/",
+      "start": "# 10.2 发布说明写法",
+      "end": "的 NPE 异常」。"
+    }
+  ]
+}

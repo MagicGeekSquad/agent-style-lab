@@ -1,0 +1,57 @@
+{
+  "output": "skills/explainer-guide/sources/weisberg-2008.md",
+  "input": "docs/refs/讲解者姿态/原始资料/12-weisberg-seductive-allure.pdf",
+  "title": "The Seductive Allure of Neuroscience Explanations",
+  "author": "Deena Skolnick Weisberg, Frank C. Keil, Joshua Goodstein, Elizabeth Rawson, and Jeremy R. Gray, Journal of Cognitive Neuroscience, 20(3), 470-477, 2008",
+  "source_url": "https://cogdevlab.yale.edu/sites/default/files/files/Weisbergetal2008.pdf",
+  "scope": "摘要，引言中提出假设的部分，实验 1 的材料、测量方式和结果，实验 3 中专家结论的一段，以及“General Discussion”中的“Summary of Results”一节。由于 PDF 的双栏排版，摘要被分成了前后两段。表 1 的示例，实验 2 和实验 3 的详细统计，讨论中关于成因的推测，以及参考文献，都没有收录。PDF 的文字提取丢掉了原文里的负号和乘号，例如评分范围“−3 到 +3”在这里显示为“3 ... to +3”，统计数值前的负号也都没有了；需要核对数值时请看 PDF 原件。",
+  "cited_by": "`names.md` 的“非用不可的名称，怎样解释”一节。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": [
+    "^Yale University$",
+    "^D 2008 Massachusetts Institute of Technology$",
+    "^Journal of Cognitive Neuroscience 20:3, pp\\. 470.477$",
+    "^Journal of Cognitive Neuroscience$",
+    "^Volume 20, Number 3$",
+    "^Weisberg et al\\.$",
+    "^47[0-7]$"
+  ],
+  "sections": [
+    {
+      "start": "Abstract & Explanations of psychological phenomena",
+      "end": "2 (without neuroscience",
+      "label": "摘要的前半部分"
+    },
+    {
+      "start": "vs. with neuroscience) design. Crucially",
+      "end": "masking otherwise salient problems in these explanations.",
+      "label": "摘要的后半部分"
+    },
+    {
+      "start": "People also tend to rate longer explanations",
+      "end": "plays in these explanations.",
+      "label": "引言：提出假设"
+    },
+    {
+      "start": "Materials We wrote descriptions of 18",
+      "end": "not necessarily the real explanations for the phenomena.",
+      "label": "实验 1：材料和流程"
+    },
+    {
+      "start": "For each of the 18 stimuli, subjects read",
+      "end": "or at least not as much.",
+      "label": "实验 1：测量方式、结果和讨论"
+    },
+    {
+      "start": "These results from expert subjects confirm",
+      "end": "not the information itself.",
+      "label": "实验 3：专家结果的结论"
+    },
+    {
+      "start": "GENERAL DISCUSSION Summary of Results",
+      "end": "benefit of extended and specific training on the judgment of explanations.",
+      "label": "“General Discussion”中的“Summary of Results”"
+    }
+  ]
+}

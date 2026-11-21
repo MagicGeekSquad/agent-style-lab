@@ -1,0 +1,39 @@
+{
+  "output": "skills/explainer-guide/sources/rosenshine-2012.md",
+  "input": "docs/refs/讲解者姿态/原始资料/04-rosenshine-principles-of-instruction.pdf",
+  "title": "Principles of Instruction: Research-Based Strategies That All Teachers Should Know",
+  "author": "Barak Rosenshine, American Educator, Spring 2012, 印刷页码 12-19 和 39",
+  "source_url": "https://www.aft.org/sites/default/files/Rosenshine.pdf",
+  "scope": "第 2 条原则“Present new material in small steps with student practice after each step”全文（印刷第 13 页和第 14 页），以及第 6 条原则“Check for student understanding”全文（印刷第 16 页）。其他原则、导言和尾注没有收录。原文是多栏排版，PDF 里的文字顺序和阅读顺序不一致，这里已经按阅读顺序重新排列。第 2 条原则的内容分成三小段接续，段与段之间的“〔……〕”在这里只表示栏位断开，原文是连续的，没有省略；“iden-”和“tifying”是同一个词被换栏拆开。对应的印刷页码：第 2 条原则的标题和“工作记忆很小”的说明在印刷第 13 页，其余部分（包括“更有效的老师花更多时间”和概括段落的例子）在印刷第 14 页；第 6 条原则在印刷第 16 页。",
+  "cited_by": "`new-concepts.md` 的“一次只讲一小步”一节（第 2 条原则）和“讲完以后，怎样知道用户懂了”一节（第 6 条原则）。",
+  "license": "版权归原作者或出版方。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": ["^AMERICAN EDUCATOR \\| SPRING 2012$", "^1[2-9]$"],
+  "sections": [
+    {
+      "start": "2. Present new material in small steps with student practice after each step:",
+      "end": "Rather, they presented only small amounts of new material at one time, and they",
+      "label": "第 2 条原则，第一小段"
+    },
+    {
+      "start": "taught in such a way that each point was mastered before the next point was introduced.",
+      "end": "Then, she led practice on iden-",
+      "label": "第 2 条原则，第二小段（接上一段）"
+    },
+    {
+      "start": "tifying the topics of new paragraphs.",
+      "end": "there was modeling and practice at each step.",
+      "label": "第 2 条原则，第三小段（接上一段）"
+    },
+    {
+      "start": "6. Check for student understanding: Checking for student understanding at each point",
+      "end": "fewer errors.",
+      "label": "第 6 条原则，标题"
+    },
+    {
+      "start": "Research findings The more effective teachers frequently checked",
+      "end": "may help identify gaps in their understanding.",
+      "label": "第 6 条原则，正文（接上一段）"
+    }
+  ]
+}

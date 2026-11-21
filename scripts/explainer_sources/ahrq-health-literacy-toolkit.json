@@ -1,0 +1,46 @@
+{
+  "output": "skills/explainer-guide/sources/ahrq-health-literacy-toolkit.md",
+  "input": "docs/refs/讲解者姿态/原始资料/05-ahrq-health-literacy-toolkit-3rd-edition-mirror.pdf",
+  "title": "AHRQ Health Literacy Universal Precautions Toolkit, 3rd Edition",
+  "author": "美国卫生保健研究与质量局（AHRQ），第 3 版，2024 年 3 月（AHRQ 出版物编号 23-0075），主编 Cindy Brach。",
+  "source_url": "https://www.ahrq.gov/sites/default/files/publications2/files/health-literacy-toolkit-third-edition.pdf",
+  "scope": "摘录取自官方 PDF 的第三方镜像，不是官方网站上的文件。摘录了书名页，版权页和引用格式，工具 4（Communicate Clearly）和工具 5（Use the Teach-Back Method）的全文，以及工具 11（Assess, Select, and Create Easy-to-Understand Materials）里被引用的两处：关于可读性公式的“Use readability formulas”一条，和关于数字的“Watch out for numbers”一条，各带它所在的小标题。工具包的其余部分没有摘录。原件里的方块圆点是用符号字体画的，直接提取出来是无法显示的字符，这里换成了“▪”。",
+  "cited_by": "names.md 引用了工具 4（用病人自己的说法）；numbers-and-uncertainty.md 引用了工具 4（“Two out of 10 people gain weight with this medicine”一例）和工具 11（替读者计算）；new-concepts.md 引用了工具 5（“你明白了吗？”不能确认理解，发现误解时换一种办法再讲，原话重复不等于听懂，以及一位医生的体会）；content.md 引用了工具 11（可读性公式的局限）。",
+  "license": "美国联邦政府的出版物，但不是无条件公开使用。版权页的“Public Availability Notice”说，在美国可以不经许可用于非商业目的；在美国以外转载或翻译，要先取得 AHRQ 的许可；文中注明有版权的材料，要取得版权人的许可（原文见下面摘录的版权页）。这里只摘录指南引用到的部分，供核对引文使用；对外分发前需要另行确认。",
+  "reflow": true,
+  "drop_lines": [
+    "^AHRQ Health Literacy Universal Precautions Toolkit, 3rd edition: Tool #\\d+\\s*$",
+    "^\\d{1,2}$"
+  ],
+  "sections": [
+    {
+      "label": "书名页",
+      "start": "AHRQ Health Literacy Universal Precautions Toolkit, 3rd Edition Editor of the 3rd Edition: Cindy Brach, MPP",
+      "end": "Editor of the 3rd Edition: Cindy Brach, MPP"
+    },
+    {
+      "label": "版权页和引用格式",
+      "start": "Public Availability Notice.",
+      "end": "AHRQ Publication No. 23-0075. March 2024."
+    },
+    {
+      "label": "工具 4 和工具 5 的全文",
+      "start": "Communicate Clearly: Tool #4 Overview",
+      "end": "Go to Tool #2: Assess Organizational Health Literacy and Create an Improvement Plan to learn how to use data in the improvement process."
+    },
+    {
+      "label": "工具 11，开头的标题和“Assess whether…”一节，含“Use readability formulas”一条",
+      "start": "Assess, Select, and Create Easy-to-Understand Materials: Tool #11 Overview",
+      "end": "Flesch Reading Ease."
+    },
+    {
+      "label": "工具 11，“Create new materials…”一节里的“Watch out for numbers”一条",
+      "start": "Create new materials to fill gaps and revise homegrown materials that need improvement.",
+      "end": "Or you realize that the materials your office has created are not as easy to understand as you need."
+    },
+    {
+      "start": "Watch out for numbers.",
+      "end": "such as a 10-year period rather than lifetime."
+    }
+  ]
+}
